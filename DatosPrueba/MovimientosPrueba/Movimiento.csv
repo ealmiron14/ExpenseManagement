@@ -1,0 +1,19 @@
+Columna1;FechaRealizacion;Descripcion;Cantidad;Columna5;FechaContabilizacion;Columna7;LargoDescripcion;IdTipo;IdSubtipo;FechaActualizacion
+abr-02;07-abr;Nafta 890 10000 tarj;10000;;07-abr;;20;1;10;15-abr
+Domingo 7;07-abr;Peaje 500;500;;07-abr;;9;1;10;15-abr
+Lunes 8;08-abr;Vale Mari 84 dólares(985) -82740;82740;;08-abr;1;32;2;20;15-abr
+Dólar 985;08-abr;mensualidad 54000;54000;;08-abr;1;17;1;11;15-abr
+;08-abr;Coto 77600 tarj;0;;08-abr;1;15;1;12;15-abr
+Miércoles 10;10-abr;Comisión prefer 6900;6900;;10-abr;3;20;1;10;15-abr
+;10-abr;Edesur 20841 tarj;0;;10-abr;3;17;1;10;15-abr
+;10-abr;Chocolates 2300;2300;;10-abr;3;15;1;10;15-abr
+;10-abr;Venta 100 USD Vane 98500;98500;;10-abr;3;24;2;20;15-abr
+Jueves 11;11-abr;Particular 12500;12500;;11-abr;4;16;1;10;15-abr
+;11-abr;Remis santo tome 2000;2000;;11-abr;4;21;1;10;15-abr
+Viernes 12;12-abr;Remis santo tome 2000;2000;;12-abr;5;21;1;10;15-abr
+Sábado 13;13-abr;Peaje 1000;1000;;13-abr;6;10;1;10;15-abr
+;13-abr;Cochera lanchon 5000;5000;;13-abr;6;20;1;10;15-abr
+;13-abr;Ayuda nafta -2000;2000;;13-abr;6;17;2;20;15-abr
+;13-abr;Ayuda edenor -5000;5000;;13-abr;6;18;2;20;15-abr
+;13-abr;Nafta 10000 tarj;0;;13-abr;6;16;1;10;15-abr
+Martes 9;09-abr;Alquiler 92010;92010;;09-abr;2;14;1;10;15-abr
