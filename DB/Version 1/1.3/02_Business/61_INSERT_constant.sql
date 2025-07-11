@@ -1,0 +1,2 @@
+EXEC constant_v_management_pkg.insert_constant_value_data ('Asignacion Mari', 120000, SYSDATE, NULL, SYSDATE);
+EXEC constant_v_management_pkg.insert_constant_value_data ('Asignacion Gasto Ordinario', 0, SYSDATE, NULL, SYSDATE);
